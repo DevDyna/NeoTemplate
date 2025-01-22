@@ -1,7 +1,6 @@
 name: Bug Report
 description: You found a bug
 labels: [bug]
-assignees: DevDyna
 body:
   - type: checkboxes
     id: check-base
